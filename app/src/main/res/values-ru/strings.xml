@@ -1,0 +1,4 @@
+<resources>
+    <string name="second_btn_name_on">СЕРВИС ВКЛ</string>
+    <string name="second_btn_name_off">СЕРВИС ВЫКЛ</string>
+</resources>

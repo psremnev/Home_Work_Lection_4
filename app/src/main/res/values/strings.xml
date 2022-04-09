@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Home_Work_Lection_4</string>
+    <dimen name="first_btn_textSize">20sp</dimen>
+    <string name="first_btn_name" translatable="false">Open Two Activity</string>
+    <string name="second_btn_name_on">SERVICE ON</string>
+    <string name="second_btn_name_off">SERVICE OFF</string>
+    <string name="setVolume" translatable="false">SetVolume</string>
+    <integer name="defaultVolume">30</integer>
+</resources>
